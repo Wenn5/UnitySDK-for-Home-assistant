@@ -1,4 +1,4 @@
-# Note: This repo is used as a placeholder at this point, but the codes will be updated in this repo in the future.
+# Note: This repo is used as a placeholder at this point, but the codes will be updated here in the future.
 
 # UnitySDK for Home Assistant
 
