@@ -2,7 +2,7 @@
 
 # UnitySDK for Home Assistant
 
-A UnitySDK based on [CSharp-library-for-Home-assistant](https://github.com/Wenn5/CSharp-library-for-Home-assistant).
+A UnitySDK based on [Dotnet-library-for-Home-assistant](https://github.com/Wenn5/Dotnet-library-for-Home-assistant).
 
 This SDK is developed to quickly build realtime 3D front-end applications of [Home Assistant](https://github.com/home-assistant) by using Unity engine.
 
@@ -10,7 +10,7 @@ This SDK is developed to quickly build realtime 3D front-end applications of [Ho
 
 ## Schedule
 
-After the task of developing [CSharp-library-for-Home-assistant](https://github.com/Wenn5/CSharp-library-for-Home-assistant). This project will be weekly updated.
+After the task of developing [Dotnet-library-for-Home-assistant](https://github.com/Wenn5/Dotnet-library-for-Home-assistant). This project will be weekly updated.
 
 
 
